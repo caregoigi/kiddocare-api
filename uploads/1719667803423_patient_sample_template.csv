@@ -1,0 +1,4 @@
+doctorId,parentName,parentEmail,parentPhone,isPrimary,firstName,lastName,email,address,diseases,dateOfBirth,gender
+DR0001,Oliver Queen,oliver@gmail.com,9933542320,1,Jack,Half,jack@gmail.com,"test, usa",test data,1995-05-20,male
+DR0001,Oliver Queen,oliver@gmail.com,9933542320,1,Alen,Ken,alen@gmail.com,"test, usa",test data,1995-05-20,male
+DR0002,Sen alen,oliver@gmail.com,9933572320,0,Mirja,Guk,mirja@gmail.com,"test, usa",test data,1995-05-20,male
